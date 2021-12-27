@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JunjieLl&theme=vue&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunjieLl&layout=compact&theme=vue&bg_color=30,000,434343&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats).
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunjieLl&layout=compact&theme=vue&bg_color=30,000,434343&title_color=fff&text_color=fff&hide=html,css)](https://github.com/anuraghazra/github-readme-stats).
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JunjieLl&repo=SwiftCalculator)](https://github.com/anuraghazra/github-readme-stats)
 -->
